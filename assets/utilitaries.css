@@ -79,3 +79,7 @@ img{
 .gap{
     gap: 16px;
 }
+
+.grid{
+    display: grid;
+}
